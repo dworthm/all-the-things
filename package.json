@@ -1,0 +1,20 @@
+{
+  "name": "all-the-things",
+  "version": "1.0.0",
+  "description": "My personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dworthm/all-the-things.git"
+  },
+  "keywords": [],
+  "author": "Michael Duckworth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dworthm/all-the-things/issues"
+  },
+  "homepage": "https://github.com/dworthm/all-the-things#readme"
+}
